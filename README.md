@@ -12,7 +12,7 @@ $ npm i
 $ npm run start
 ```
 
-3. Find an error message in the printed logs
+3. Find an error message from the printed logs
 
 ```
 TypeError [ERR_INVALID_ARG_TYPE]: The "string" argument must be of type string or an instance of Buffer or ArrayBuffer. Received an instance of ReadableStream
